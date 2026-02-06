@@ -131,7 +131,7 @@ yesBtn.addEventListener("click", ()=>{
 
     const name = "Your Love ❤️"; // CHANGE NAME
    document.getElementById("msg").innerHTML =
-    "Forever Yours,<br>Manikadan ❤️<br>my vaishuuu";
+    "Forever yours pookie ";
 
 });
 
